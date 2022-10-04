@@ -47,7 +47,7 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 - Source - Error 🥲 
 
 <b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/sachinXmehla>SACHIN MEHLA</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
