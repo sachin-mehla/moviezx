@@ -37,7 +37,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "ror")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Tulegram_files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001731201910'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001526478235'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@sachinXmehla')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), True)
