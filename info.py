@@ -18,7 +18,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '5696172983:AAFifkmTHG0GBb8aIM0F4tquQAttyrB
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
-USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
+USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PICS = (environ.get('PICS', 'https://drive.google.com/file/d/1xrO25T-E94LSrxjICDEiXyNnUkwqEl-_/view?usp=drivesdk')).split()
 
 # Admins, Channels & Users
