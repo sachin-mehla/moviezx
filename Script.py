@@ -1,11 +1,13 @@
 class script(object):
     START_TXT = """Hii Buddy {} 👋
-My Name is MEHLA. I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
+My Name is 𝑴𝑬𝑯𝑳𝑨. I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 𝙃𝙊𝙒 𝙏𝙊 𝙐𝙎𝙀 𝙈𝙀 -
 Just Add Me To Your Group As Admin, 
 Thats All, i will Provide Movies There...🤓🤪
 
+Still Don't understand then 
+<a href=https://youtu.be/9hM4XHJNg0I>𝙒𝙖𝙩𝙘𝙝 𝙩𝙝𝙞𝙨 𝙑𝙞𝙙𝙚𝙤</a>
 
 💁🏻More Help Check Help Button Below
 
@@ -19,6 +21,9 @@ Thats All, i will Provide Movies There...🤓🤪
 
 ○  Search using inline mode
 This methord works on any chat, Just type @moviezXrobot and then leave a space and search any movie you want...
+
+Still Don't understand then 
+<a href=https://youtu.be/9hM4XHJNg0I>𝙒𝙖𝙩𝙘𝙝 𝙩𝙝𝙞𝙨 𝙑𝙞𝙙𝙚𝙤</a>
 
 ○ Available Commands
      
