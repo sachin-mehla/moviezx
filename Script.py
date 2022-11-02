@@ -1,20 +1,21 @@
 class script(object):
-    START_TXT = """Hii Buddy {} 💖
+    START_TXT = """Hii Buddy {} 👋
 My Name is MEHLA. I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
+𝙃𝙊𝙒 𝙏𝙊 𝙐𝙎𝙀 𝙈𝙀 -
+Just Add Me To Your Group As Admin, 
 Thats All, i will Provide Movies There...🤓🤪
 
 
-⚠️More Help Check Help Button Below
+💁🏻More Help Check Help Button Below
 
-😎 Powered by @sachinXmehla
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ♥ 𝙱𝚈 <a href=https://t.me/sachinXmehla>𝚂𝙰𝙲𝙷𝙸𝙽 𝙼𝙴𝙷𝙻𝙰</a>
 
 ©️ Request Movies @moviesx11_bot"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
-○  it's Not Complicated...🤓
+○  I am Not Complicated...🤓
 
 ○  Search using inline mode
 This methord works on any chat, Just type @moviezXrobot and then leave a space and search any movie you want...
@@ -35,7 +36,7 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 
 ♥ Now Enjoy """
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sachinXmehla>Sachin Mehla</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sachinXmehla>𝚂𝙰𝙲𝙷𝙸𝙽 𝙼𝙴𝙷𝙻𝙰</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -52,7 +53,7 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. This Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -63,15 +64,15 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- This Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. This Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/sources_cods)</code>
+<code>[Button Text](buttonurl:https://t.me/sachinXmehla)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -98,7 +99,7 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of The Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
