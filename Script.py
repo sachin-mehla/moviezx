@@ -22,7 +22,6 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 ○ Available Commands
      
  /start - Check I'm Alive..
- /status - Bot Status
  /info - User info 
  /id - User id
  /stats - Db status  
@@ -40,14 +39,14 @@ This methord works on any chat, Just type @moviezXrobot and then leave a space a
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: Github
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝚅𝙿𝚂
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Sorry, Source code is Private. 
 - Source - Error 🥲 
 
 <b>DEVS:</b>
-- <a href=https://t.me/sachinXmehla>SACHIN MEHLA</a>"""
+- <a href=https://t.me/sachinXmehla>𝚂𝙰𝙲𝙷𝙸𝙽 𝙼𝙴𝙷𝙻𝙰</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
