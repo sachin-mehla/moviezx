@@ -12,7 +12,7 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '7270745'))
+API_ID = int(environ.get('API_ID', 7270745))
 API_HASH = environ.get('API_HASH', 'e8d7db1802b0b3839f646a1249e9ef34')
 BOT_TOKEN = environ.get('BOT_TOKEN', '5696172983:AAFifkmTHG0GBb8aIM0F4tquQAttyrBw_KY')
 
@@ -22,7 +22,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PICS = (environ.get('PICS', 'https://drive.google.com/file/d/1xrO25T-E94LSrxjICDEiXyNnUkwqEl-_/view?usp=drivesdk')).split()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5698744303').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', 5698744303).split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001805539468 -1001726863824 -1001726271190').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -37,7 +37,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "rorx")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'hashtag')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001526478235'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001526478235))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@sachinXmehla')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'True')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), True)
