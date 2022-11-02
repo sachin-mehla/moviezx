@@ -11,16 +11,16 @@ Still Don't understand then
 
 💁🏻More Help Check Help Button Below
 
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ♥ 𝙱𝚈 <a href=https://t.me/sachinXmehla>𝚂𝙰𝙲𝙷𝙸𝙽 𝙼𝙴𝙷𝙻𝙰</a>
+©️ Request Movies @moviesx11_bot
 
-©️ Request Movies @moviesx11_bot"""
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ♥ 𝙱𝚈 <a href=https://t.me/sachinXmehla>𝚂𝙰𝙲𝙷𝙸𝙽 𝙼𝙴𝙷𝙻𝙰</a>"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
 ○  I am Not Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @moviezXrobot and then leave a space and search any movie you want...
+This method works on any chat, Just type @moviezXrobot and then leave a space and search any movie you want...
 
 Still Don't understand then 
 <a href=https://youtu.be/9hM4XHJNg0I>𝙒𝙖𝙩𝙘𝙝 𝙩𝙝𝙞𝙨 𝙑𝙞𝙙𝙚𝙤</a>
